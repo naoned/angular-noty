@@ -10,7 +10,11 @@
 				};
 
 				return {
-					show: function (params) {
+					show: function (message, type) {
+						callNoty({text: message || settings.text, type: type || settings.type});
+					},
+
+					showWithParams: function (params) {
 						callNoty(params);
 					},
 
