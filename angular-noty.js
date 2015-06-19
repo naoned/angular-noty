@@ -10,8 +10,8 @@
 				};
 
 				return {
-					show: function (message, type) {
-						callNoty({text: message || settings.text, type: type || settings.type});
+					show: function (params) {
+						callNoty(params);
 					},
 
 					showAlert: function (message) {
