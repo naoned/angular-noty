@@ -1,3 +1,5 @@
+Forked adding function showWithParams which allows noty call passing settings to noty.
+
 angular-noty
 ============
 

@@ -1,16 +1,19 @@
 {
-  "name": "angular-noty",
+  "name": "angular-noty-nao",
   "version": "0.0.0",
-  "homepage": "https://github.com/azadorozhniy/angular-noty",
+  "homepage": "https://github.com/naoned/angular-noty",
   "authors": [
+    "nmarniesse <nmarniesse@naoned.fr>",
     "azadorozhniy <artem.zadorozhniy@gmail.com>"
   ],
   "description": "Angular wrapper for noty - cool growl like notifications",
   "keywords": [
-    "anglar",
+    "angular",
     "noty",
-    "growl",
     "notification"
+  ],
+  "main": [
+    "angular-noty.js",
   ],
   "license": "MIT",
   "ignore": [
