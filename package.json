@@ -1,14 +1,14 @@
 {
-  "name": "angular-noty",
+  "name": "angular-noty-nao",
   "version": "0.0.0",
   "description": "Angular wrapper for noty ",
-  "main": "index.js",
+  "main": "angular-noty.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/azadorozhniy/angular-noty.git"
+    "url": "https://github.com/naoned/angular-noty.git"
   },
   "author": "https://github.com/azadorozhniy",
   "license": "MIT",
